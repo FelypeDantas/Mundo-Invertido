@@ -42,6 +42,6 @@ Este site foi criado para os fãs de "Stranger Things", oferecendo uma experiên
 Contribuições são bem-vindas! Se você deseja adicionar novas informações ou funcionalidades, sinta-se à vontade para abrir um pull request ou relatar um problema.
 
 ## Licença
-Este projeto está licenciado sob a a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
