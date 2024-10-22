@@ -2,6 +2,8 @@
 
 Bem-vindo ao projeto "Mundo Invertido", um site dedicado a explorar o universo misterioso e intrigante da série "Stranger Things". Aqui, você encontrará informações sobre os personagens, episódios, teorias e muito mais.
 
+![Licença MIT](https://img.shields.io/badge/Licença-MIT-brightgreen)
+
 ## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
