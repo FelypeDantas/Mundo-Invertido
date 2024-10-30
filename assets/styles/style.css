@@ -367,3 +367,53 @@ footer::after{
     right: -50px;
     transform: rotateZ(10deg);
 }
+
+/* Estilos para telas menores que 768px */
+@media (max-width: 768px) {
+    h1, h2, h3 {
+        font-size: 2rem; /* Ajustar tamanhos de fonte */
+    }
+
+    .header-content {
+        padding: 40px 10px; /* Reduzir padding */
+    }
+
+    .gallery-container {
+        flex-direction: column; /* Mudar para coluna em telas menores */
+        align-items: center; /* Centralizar imagens */
+    }
+
+    #section-form .form-container {
+        flex-basis: 100%; /* Ocupa toda a largura */
+    }
+
+    #section-stranger-things-trailer {
+        flex-direction: column; /* Mudar para coluna */
+        align-items: center; /* Centralizar conteúdo */
+    }
+
+    #section-stranger-things-trailer .section-texts {
+        width: 100%; /* Ocupa toda a largura */
+    }
+
+    iframe {
+        width: 100%; /* Tornar o iframe responsivo */
+        height: auto; /* Ajustar a altura automaticamente */
+    }
+}
+
+/* Estilos para telas menores que 480px */
+@media (max-width: 480px) {
+    h1, h2, h3 {
+        font-size: 1.5rem; /* Diminuir ainda mais os tamanhos de fonte */
+    }
+
+    button {
+        padding: 10px 20px; /* Ajustar o padding do botão */
+        font-size: 1rem; /* Ajustar o tamanho da fonte do botão */
+    }
+
+    input, textarea {
+        font-size: 0.9rem; /* Ajustar o tamanho da fonte */
+    }
+}
