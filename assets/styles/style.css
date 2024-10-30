@@ -396,7 +396,7 @@ footer::after{
         width: 100%; /* Ocupa toda a largura */
     }
 
-    iframe {
+    img, iframe {
         width: 100%; /* Tornar o iframe responsivo */
         height: auto; /* Ajustar a altura automaticamente */
     }
